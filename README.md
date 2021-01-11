@@ -1,5 +1,5 @@
 # WGAN-GP
-A python3&torch1. implementation of WGAN-GP.
+A python3&torch1.+ implementation of WGAN-GP.
 
 # Prerequisites
 - Python3.6+
