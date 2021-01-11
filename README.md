@@ -1,6 +1,8 @@
 # WGAN-GP
-A python3 implementation of WGAN-GP
-Build on the code of [[caogang/wgan-gp]](https://github.com/search?q=WGAN-GP)
+A python3+torch1.+ implementation of WGAN-GP.
+
+Build on the code of [[caogang/wgan-gp]](https://github.com/search?q=WGAN-GP).
+(**Motivation**: when I use the code of [[caogang/wgan-gp]](https://github.com/search?q=WGAN-GP), I got stuck at the data loading stage. Hence I build this version of WGAN-GP, which works fine under my environment.
 # Prerequisites
 - Python3.6+
 - torch 1.+
