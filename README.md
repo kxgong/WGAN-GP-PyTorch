@@ -7,6 +7,7 @@ A python3&torch1. implementation of WGAN-GP.
 - numpy
 - scipy
 - matplotlib
+- A nvidia GPU
 
 # Acknowledge 
 Based on the code of [[caogang/wgan-gp]](https://github.com/search?q=WGAN-GP).
